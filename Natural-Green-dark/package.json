@@ -1,0 +1,21 @@
+{
+    "name": "Natural-Green-dark",
+    "displayName": "Natural Green",
+    "description": "Green theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Natural Green dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Natural Green dark-color-theme.json"
+            }
+        ]
+    }
+}
